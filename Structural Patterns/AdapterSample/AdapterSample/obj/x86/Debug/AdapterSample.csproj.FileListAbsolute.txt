@@ -1,0 +1,9 @@
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\3-Structural\1-)Adapter\AdapterSample\AdapterSample\bin\Debug\AdapterSample.exe
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\3-Structural\1-)Adapter\AdapterSample\AdapterSample\bin\Debug\AdapterSample.pdb
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\3-Structural\1-)Adapter\AdapterSample\AdapterSample\obj\x86\Debug\AdapterSample.exe
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\3-Structural\1-)Adapter\AdapterSample\AdapterSample\obj\x86\Debug\AdapterSample.pdb
+C:\Users\mkarakulak\Desktop\AdapterSample\AdapterSample\obj\x86\Debug\AdapterSample.exe
+C:\Users\mkarakulak\Desktop\AdapterSample\AdapterSample\obj\x86\Debug\AdapterSample.pdb
+C:\Users\mkarakulak\Desktop\AdapterSample\AdapterSample\bin\Debug\AdapterSample.exe
+C:\Users\mkarakulak\Desktop\AdapterSample\AdapterSample\bin\Debug\AdapterSample.pdb
+C:\Users\mkarakulak\Desktop\AdapterSample\AdapterSample\obj\x86\Debug\AdapterSample.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\6-)Memento\MementoSample\MementoSample\bin\Debug\MementoSample.exe
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\6-)Memento\MementoSample\MementoSample\bin\Debug\MementoSample.pdb
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\6-)Memento\MementoSample\MementoSample\obj\x86\Debug\MementoSample.exe
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\6-)Memento\MementoSample\MementoSample\obj\x86\Debug\MementoSample.pdb
+C:\Users\mkarakulak\Desktop\MementoSample\MementoSample\obj\x86\Debug\MementoSample.exe
+C:\Users\mkarakulak\Desktop\MementoSample\MementoSample\obj\x86\Debug\MementoSample.pdb
+C:\Users\mkarakulak\Desktop\MementoSample\MementoSample\bin\Debug\MementoSample.exe
+C:\Users\mkarakulak\Desktop\MementoSample\MementoSample\bin\Debug\MementoSample.pdb
+C:\Users\mkarakulak\Desktop\MementoSample\MementoSample\obj\x86\Debug\MementoSample.csprojResolveAssemblyReference.cache

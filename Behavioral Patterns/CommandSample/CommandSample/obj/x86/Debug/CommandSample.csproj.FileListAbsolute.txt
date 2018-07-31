@@ -1,0 +1,7 @@
+D:\yedekler\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\2-)Command\CommandSample\CommandSample\bin\Debug\CommandSample.exe
+D:\yedekler\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\2-)Command\CommandSample\CommandSample\bin\Debug\CommandSample.pdb
+D:\yedekler\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\2-)Command\CommandSample\CommandSample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\yedekler\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\2-)Command\CommandSample\CommandSample\obj\x86\Debug\CommandSample.exe
+D:\yedekler\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\2-)Command\CommandSample\CommandSample\obj\x86\Debug\CommandSample.pdb
+C:\Users\mkarakulak\Desktop\CommandSample\CommandSample\obj\x86\Debug\CommandSample.exe
+C:\Users\mkarakulak\Desktop\CommandSample\CommandSample\obj\x86\Debug\CommandSample.pdb

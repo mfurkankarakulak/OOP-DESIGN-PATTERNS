@@ -1,0 +1,9 @@
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\10-)Template method\SampleTemplateMethod\SampleTemplateMethod\bin\Debug\SampleTemplateMethod.exe
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\10-)Template method\SampleTemplateMethod\SampleTemplateMethod\bin\Debug\SampleTemplateMethod.pdb
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\10-)Template method\SampleTemplateMethod\SampleTemplateMethod\obj\x86\Debug\SampleTemplateMethod.exe
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\10-)Template method\SampleTemplateMethod\SampleTemplateMethod\obj\x86\Debug\SampleTemplateMethod.pdb
+C:\Users\mkarakulak\Desktop\SampleTemplateMethod\SampleTemplateMethod\obj\x86\Debug\SampleTemplateMethod.exe
+C:\Users\mkarakulak\Desktop\SampleTemplateMethod\SampleTemplateMethod\obj\x86\Debug\SampleTemplateMethod.pdb
+C:\Users\mkarakulak\Desktop\SampleTemplateMethod\SampleTemplateMethod\bin\Debug\SampleTemplateMethod.exe
+C:\Users\mkarakulak\Desktop\SampleTemplateMethod\SampleTemplateMethod\bin\Debug\SampleTemplateMethod.pdb
+C:\Users\mkarakulak\Desktop\SampleTemplateMethod\SampleTemplateMethod\obj\x86\Debug\SampleTemplateMethod.csprojResolveAssemblyReference.cache

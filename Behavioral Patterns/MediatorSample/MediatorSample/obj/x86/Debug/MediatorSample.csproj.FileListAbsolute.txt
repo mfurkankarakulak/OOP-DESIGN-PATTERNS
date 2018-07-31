@@ -1,0 +1,10 @@
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\5-)Mediator\MediatorSample\MediatorSample\bin\Debug\MediatorSample.exe
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\5-)Mediator\MediatorSample\MediatorSample\bin\Debug\MediatorSample.pdb
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\5-)Mediator\MediatorSample\MediatorSample\obj\x86\Debug\MediatorSample.exe
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\5-)Mediator\MediatorSample\MediatorSample\obj\x86\Debug\MediatorSample.pdb
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\5-)Mediator\MediatorSample\MediatorSample\obj\x86\Debug\MediatorSample.csprojResolveAssemblyReference.cache
+C:\Users\mkarakulak\Desktop\MediatorSample\MediatorSample\obj\x86\Debug\MediatorSample.exe
+C:\Users\mkarakulak\Desktop\MediatorSample\MediatorSample\obj\x86\Debug\MediatorSample.pdb
+C:\Users\mkarakulak\Desktop\MediatorSample\MediatorSample\bin\Debug\MediatorSample.exe
+C:\Users\mkarakulak\Desktop\MediatorSample\MediatorSample\bin\Debug\MediatorSample.pdb
+C:\Users\mkarakulak\Desktop\MediatorSample\MediatorSample\obj\x86\Debug\MediatorSample.csprojResolveAssemblyReference.cache

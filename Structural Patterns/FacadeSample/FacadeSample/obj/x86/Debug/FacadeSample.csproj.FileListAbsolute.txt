@@ -1,0 +1,6 @@
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\3-Structural\5-)Facade\FacadeSample\FacadeSample\bin\Debug\FacadeSample.exe
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\3-Structural\5-)Facade\FacadeSample\FacadeSample\bin\Debug\FacadeSample.pdb
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\3-Structural\5-)Facade\FacadeSample\FacadeSample\obj\x86\Debug\FacadeSample.exe
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\3-Structural\5-)Facade\FacadeSample\FacadeSample\obj\x86\Debug\FacadeSample.pdb
+C:\Users\mkarakulak\Desktop\Structural Patterns\FacadeSample\FacadeSample\obj\x86\Debug\FacadeSample.exe
+C:\Users\mkarakulak\Desktop\Structural Patterns\FacadeSample\FacadeSample\obj\x86\Debug\FacadeSample.pdb

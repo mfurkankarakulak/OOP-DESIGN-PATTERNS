@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chain_of_res_sample", "chain_of_res_sample\chain_of_res_sample.csproj", "{DE10822E-1404-41BA-88BE-F435F077CF91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE10822E-1404-41BA-88BE-F435F077CF91}.Debug|x86.ActiveCfg = Debug|x86
+		{DE10822E-1404-41BA-88BE-F435F077CF91}.Debug|x86.Build.0 = Debug|x86
+		{DE10822E-1404-41BA-88BE-F435F077CF91}.Release|x86.ActiveCfg = Release|x86
+		{DE10822E-1404-41BA-88BE-F435F077CF91}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

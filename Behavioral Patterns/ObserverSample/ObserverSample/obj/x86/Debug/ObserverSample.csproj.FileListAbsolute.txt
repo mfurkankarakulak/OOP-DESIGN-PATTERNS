@@ -1,0 +1,10 @@
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\7-)Observer\ObserverSample\ObserverSample\bin\Debug\ObserverSample.exe
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\7-)Observer\ObserverSample\ObserverSample\bin\Debug\ObserverSample.pdb
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\7-)Observer\ObserverSample\ObserverSample\obj\x86\Debug\ObserverSample.exe
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\7-)Observer\ObserverSample\ObserverSample\obj\x86\Debug\ObserverSample.pdb
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\7-)Observer\ObserverSample\ObserverSample\obj\x86\Debug\ObserverSample.csprojResolveAssemblyReference.cache
+C:\Users\mkarakulak\Desktop\ObserverSample\ObserverSample\obj\x86\Debug\ObserverSample.exe
+C:\Users\mkarakulak\Desktop\ObserverSample\ObserverSample\obj\x86\Debug\ObserverSample.pdb
+C:\Users\mkarakulak\Desktop\ObserverSample\ObserverSample\bin\Debug\ObserverSample.exe
+C:\Users\mkarakulak\Desktop\ObserverSample\ObserverSample\bin\Debug\ObserverSample.pdb
+C:\Users\mkarakulak\Desktop\ObserverSample\ObserverSample\obj\x86\Debug\ObserverSample.csprojResolveAssemblyReference.cache

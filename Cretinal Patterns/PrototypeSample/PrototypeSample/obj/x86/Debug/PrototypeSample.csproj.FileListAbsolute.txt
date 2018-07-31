@@ -1,0 +1,7 @@
+D:\yedekler\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\1-Creatinal\5-Prototype\PrototypeSample\PrototypeSample\bin\Debug\PrototypeSample.exe
+D:\yedekler\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\1-Creatinal\5-Prototype\PrototypeSample\PrototypeSample\bin\Debug\PrototypeSample.pdb
+D:\yedekler\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\1-Creatinal\5-Prototype\PrototypeSample\PrototypeSample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\yedekler\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\1-Creatinal\5-Prototype\PrototypeSample\PrototypeSample\obj\x86\Debug\PrototypeSample.exe
+D:\yedekler\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\1-Creatinal\5-Prototype\PrototypeSample\PrototypeSample\obj\x86\Debug\PrototypeSample.pdb
+C:\Users\mkarakulak\Desktop\PrototypeSample\PrototypeSample\obj\x86\Debug\PrototypeSample.exe
+C:\Users\mkarakulak\Desktop\PrototypeSample\PrototypeSample\obj\x86\Debug\PrototypeSample.pdb

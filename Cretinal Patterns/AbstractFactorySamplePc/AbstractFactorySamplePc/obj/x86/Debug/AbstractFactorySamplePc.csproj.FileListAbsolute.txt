@@ -1,0 +1,10 @@
+D:\yedekler\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\1-Creatinal\2-AbstractFactory\AbstractFactorySamplePc\AbstractFactorySamplePc\bin\Debug\AbstractFactorySamplePc.exe
+D:\yedekler\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\1-Creatinal\2-AbstractFactory\AbstractFactorySamplePc\AbstractFactorySamplePc\bin\Debug\AbstractFactorySamplePc.pdb
+D:\yedekler\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\1-Creatinal\2-AbstractFactory\AbstractFactorySamplePc\AbstractFactorySamplePc\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\yedekler\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\1-Creatinal\2-AbstractFactory\AbstractFactorySamplePc\AbstractFactorySamplePc\obj\x86\Debug\AbstractFactorySamplePc.exe
+D:\yedekler\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\1-Creatinal\2-AbstractFactory\AbstractFactorySamplePc\AbstractFactorySamplePc\obj\x86\Debug\AbstractFactorySamplePc.pdb
+C:\Users\mkarakulak\Desktop\AbstractFactorySamplePc\AbstractFactorySamplePc\obj\x86\Debug\AbstractFactorySamplePc.exe
+C:\Users\mkarakulak\Desktop\AbstractFactorySamplePc\AbstractFactorySamplePc\obj\x86\Debug\AbstractFactorySamplePc.pdb
+C:\Users\mkarakulak\Desktop\AbstractFactorySamplePc\AbstractFactorySamplePc\bin\Debug\AbstractFactorySamplePc.exe
+C:\Users\mkarakulak\Desktop\AbstractFactorySamplePc\AbstractFactorySamplePc\bin\Debug\AbstractFactorySamplePc.pdb
+C:\Users\mkarakulak\Desktop\AbstractFactorySamplePc\AbstractFactorySamplePc\obj\x86\Debug\AbstractFactorySamplePc.csprojResolveAssemblyReference.cache

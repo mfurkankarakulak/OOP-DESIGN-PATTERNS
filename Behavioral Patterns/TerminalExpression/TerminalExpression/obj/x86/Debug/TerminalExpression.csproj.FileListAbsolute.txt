@@ -1,0 +1,9 @@
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\3-)Interpreter\InterpreterMakaleSamples\TerminalExpression\TerminalExpression\bin\Debug\TerminalExpression.exe
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\3-)Interpreter\InterpreterMakaleSamples\TerminalExpression\TerminalExpression\bin\Debug\TerminalExpression.pdb
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\3-)Interpreter\InterpreterMakaleSamples\TerminalExpression\TerminalExpression\obj\x86\Debug\TerminalExpression.exe
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\3-)Interpreter\InterpreterMakaleSamples\TerminalExpression\TerminalExpression\obj\x86\Debug\TerminalExpression.pdb
+C:\Users\mkarakulak\Desktop\TerminalExpression\TerminalExpression\obj\x86\Debug\TerminalExpression.exe
+C:\Users\mkarakulak\Desktop\TerminalExpression\TerminalExpression\obj\x86\Debug\TerminalExpression.pdb
+C:\Users\mkarakulak\Desktop\TerminalExpression\TerminalExpression\bin\Debug\TerminalExpression.exe
+C:\Users\mkarakulak\Desktop\TerminalExpression\TerminalExpression\bin\Debug\TerminalExpression.pdb
+C:\Users\mkarakulak\Desktop\TerminalExpression\TerminalExpression\obj\x86\Debug\TerminalExpression.csprojResolveAssemblyReference.cache

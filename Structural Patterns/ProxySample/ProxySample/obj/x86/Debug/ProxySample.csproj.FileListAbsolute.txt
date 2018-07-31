@@ -1,0 +1,6 @@
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\3-Structural\7-)Proxy\ProxySample\ProxySample\bin\Debug\ProxySample.exe
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\3-Structural\7-)Proxy\ProxySample\ProxySample\bin\Debug\ProxySample.pdb
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\3-Structural\7-)Proxy\ProxySample\ProxySample\obj\x86\Debug\ProxySample.exe
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\3-Structural\7-)Proxy\ProxySample\ProxySample\obj\x86\Debug\ProxySample.pdb
+C:\Users\mkarakulak\Desktop\Structural Patterns\ProxySample\ProxySample\obj\x86\Debug\ProxySample.exe
+C:\Users\mkarakulak\Desktop\Structural Patterns\ProxySample\ProxySample\obj\x86\Debug\ProxySample.pdb

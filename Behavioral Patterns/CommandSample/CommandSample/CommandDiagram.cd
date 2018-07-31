@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="CommandSample.Kisi">
+    <Position X="6.25" Y="9.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CommandPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandSample.CommandKisi">
+    <Position X="6" Y="3.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>CommandPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandSample.ConcreteCommandKisiEkle">
+    <Position X="3.75" Y="5.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CommandPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandSample.ConcreteCommandKisiSil">
+    <Position X="7.5" Y="5.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CommandPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandSample.Program">
+    <Position X="12.25" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandSample.ReceiverKisi">
+    <Position X="6" Y="7.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAgAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CommandPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandSample.InvokerKisi">
+    <Position X="5.75" Y="1.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAgAA=</HashCode>
+      <FileName>CommandPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

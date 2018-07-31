@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="AbstractFactorySamplePc.HddAbstract">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractFactoryPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactorySamplePc.RamAbstract">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>AbstractFactoryPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactorySamplePc.PcFactory">
+    <Position X="4.75" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIA=</HashCode>
+      <FileName>AbstractFactoryPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactorySamplePc.HddConcrete1">
+    <Position X="6.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractFactoryPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactorySamplePc.HddConcrete2">
+    <Position X="8.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractFactoryPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactorySamplePc.RamConcrete1">
+    <Position X="1.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>AbstractFactoryPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactorySamplePc.RamConcrete2">
+    <Position X="4" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>AbstractFactoryPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactorySamplePc.Concrete1Factory">
+    <Position X="3.25" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIA=</HashCode>
+      <FileName>AbstractFactoryPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactorySamplePc.Concrete2Factory">
+    <Position X="6.25" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIA=</HashCode>
+      <FileName>AbstractFactoryPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactorySamplePc.Factory">
+    <Position X="0.5" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAIAAAE=</HashCode>
+      <FileName>AbstractFactoryPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

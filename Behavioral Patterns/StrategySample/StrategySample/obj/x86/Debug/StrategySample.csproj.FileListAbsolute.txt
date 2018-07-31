@@ -1,0 +1,8 @@
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\9-)Strategy\StrategySample\StrategySample\bin\Debug\StrategySample.exe
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\9-)Strategy\StrategySample\StrategySample\bin\Debug\StrategySample.pdb
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\9-)Strategy\StrategySample\StrategySample\obj\x86\Debug\StrategySample.exe
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\9-)Strategy\StrategySample\StrategySample\obj\x86\Debug\StrategySample.pdb
+C:\Users\mkarakulak\Desktop\StrategySample\StrategySample\obj\x86\Debug\StrategySample.exe
+C:\Users\mkarakulak\Desktop\StrategySample\StrategySample\obj\x86\Debug\StrategySample.pdb
+C:\Users\mkarakulak\Desktop\StrategySample\StrategySample\bin\Debug\StrategySample.exe
+C:\Users\mkarakulak\Desktop\StrategySample\StrategySample\bin\Debug\StrategySample.pdb

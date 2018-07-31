@@ -1,0 +1,10 @@
+D:\yedekler\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\1-Creatinal\3-Builder\BuilderSample\BuilderSample\bin\Debug\BuilderSample.exe
+D:\yedekler\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\1-Creatinal\3-Builder\BuilderSample\BuilderSample\bin\Debug\BuilderSample.pdb
+D:\yedekler\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\1-Creatinal\3-Builder\BuilderSample\BuilderSample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\yedekler\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\1-Creatinal\3-Builder\BuilderSample\BuilderSample\obj\x86\Debug\BuilderSample.exe
+D:\yedekler\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\1-Creatinal\3-Builder\BuilderSample\BuilderSample\obj\x86\Debug\BuilderSample.pdb
+C:\Users\mkarakulak\Desktop\BuilderSample\BuilderSample\obj\x86\Debug\BuilderSample.exe
+C:\Users\mkarakulak\Desktop\BuilderSample\BuilderSample\obj\x86\Debug\BuilderSample.pdb
+C:\Users\mkarakulak\Desktop\BuilderSample\BuilderSample\bin\Debug\BuilderSample.exe
+C:\Users\mkarakulak\Desktop\BuilderSample\BuilderSample\bin\Debug\BuilderSample.pdb
+C:\Users\mkarakulak\Desktop\BuilderSample\BuilderSample\obj\x86\Debug\BuilderSample.csprojResolveAssemblyReference.cache

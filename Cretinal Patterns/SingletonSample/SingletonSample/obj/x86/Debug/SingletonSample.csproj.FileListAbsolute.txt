@@ -1,0 +1,10 @@
+D:\yedekler\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\Creatinal\1-Singleton\SingletonSample\SingletonSample\bin\Debug\SingletonSample.exe
+D:\yedekler\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\Creatinal\1-Singleton\SingletonSample\SingletonSample\bin\Debug\SingletonSample.pdb
+D:\yedekler\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\Creatinal\1-Singleton\SingletonSample\SingletonSample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\yedekler\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\Creatinal\1-Singleton\SingletonSample\SingletonSample\obj\x86\Debug\SingletonSample.exe
+D:\yedekler\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\Creatinal\1-Singleton\SingletonSample\SingletonSample\obj\x86\Debug\SingletonSample.pdb
+C:\Users\mkarakulak\Desktop\SingletonSample\SingletonSample\obj\x86\Debug\SingletonSample.exe
+C:\Users\mkarakulak\Desktop\SingletonSample\SingletonSample\obj\x86\Debug\SingletonSample.pdb
+C:\Users\mkarakulak\Desktop\SingletonSample\SingletonSample\bin\Debug\SingletonSample.exe
+C:\Users\mkarakulak\Desktop\SingletonSample\SingletonSample\bin\Debug\SingletonSample.pdb
+C:\Users\mkarakulak\Desktop\SingletonSample\SingletonSample\obj\x86\Debug\SingletonSample.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\3-Structural\2-)Bridge\BridgeSample\BridgeSample\bin\Debug\BridgeSample.exe
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\3-Structural\2-)Bridge\BridgeSample\BridgeSample\bin\Debug\BridgeSample.pdb
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\3-Structural\2-)Bridge\BridgeSample\BridgeSample\obj\x86\Debug\BridgeSample.exe
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\3-Structural\2-)Bridge\BridgeSample\BridgeSample\obj\x86\Debug\BridgeSample.pdb
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\3-Structural\2-)Bridge\BridgeSample\BridgeSample\obj\x86\Debug\BridgeSample.csprojResolveAssemblyReference.cache
+C:\Users\mkarakulak\Desktop\Structural Patterns\BridgeSample\BridgeSample\obj\x86\Debug\BridgeSample.exe
+C:\Users\mkarakulak\Desktop\Structural Patterns\BridgeSample\BridgeSample\obj\x86\Debug\BridgeSample.pdb
+C:\Users\mkarakulak\Desktop\Structural Patterns\BridgeSample\BridgeSample\bin\Debug\BridgeSample.exe
+C:\Users\mkarakulak\Desktop\Structural Patterns\BridgeSample\BridgeSample\bin\Debug\BridgeSample.pdb
+C:\Users\mkarakulak\Desktop\Structural Patterns\BridgeSample\BridgeSample\obj\x86\Debug\BridgeSample.csprojResolveAssemblyReference.cache

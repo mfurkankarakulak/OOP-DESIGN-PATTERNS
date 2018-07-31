@@ -1,0 +1,9 @@
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\4-)Iterator\IteratorSample\IteratorSample\bin\Debug\IteratorSample.exe
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\4-)Iterator\IteratorSample\IteratorSample\bin\Debug\IteratorSample.pdb
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\4-)Iterator\IteratorSample\IteratorSample\obj\x86\Debug\IteratorSample.exe
+D:\Yazılım Ders & Video & Örnek\Site Makale\Tasarım Desenleri\2-Behavioral\4-)Iterator\IteratorSample\IteratorSample\obj\x86\Debug\IteratorSample.pdb
+C:\Users\mkarakulak\Desktop\IteratorSample\IteratorSample\obj\x86\Debug\IteratorSample.exe
+C:\Users\mkarakulak\Desktop\IteratorSample\IteratorSample\obj\x86\Debug\IteratorSample.pdb
+C:\Users\mkarakulak\Desktop\IteratorSample\IteratorSample\bin\Debug\IteratorSample.exe
+C:\Users\mkarakulak\Desktop\IteratorSample\IteratorSample\bin\Debug\IteratorSample.pdb
+C:\Users\mkarakulak\Desktop\IteratorSample\IteratorSample\obj\x86\Debug\IteratorSample.csprojResolveAssemblyReference.cache
